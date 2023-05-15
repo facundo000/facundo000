@@ -2,8 +2,14 @@
 ### I am...
 ![facundo000_portada](https://github.com/facundo000/facundo000/assets/88353632/baa805ad-f7d0-41f5-a64a-7ead3f060832)
 ___
+### Front end
 **What technologies and programming languages do you mainly use in your web development projects?**
-
+Currently what I am using is html, css and javascript.
+I also have knowledge in bootstrap and sass
+___
+### Back end
+**What technologies and programming languages do you mainly use in your web development projects?**
+I am currently learning mysql and sql
 <!--
 **facundo000/facundo000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
