@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![facundo000_portada](https://github.com/facundo000/facundo000/assets/88353632/baa805ad-f7d0-41f5-a64a-7ead3f060832)
 <!--
 **facundo000/facundo000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-![picture](https://github.com/facundo000/facundo000/assets/88353632/101d0f95-ecda-46d1-b818-db79cea9d0a0)
