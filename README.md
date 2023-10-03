@@ -9,7 +9,8 @@ I also have knowledge in bootstrap and sass
 ___
 ### Back end
 #### **What technologies and programming languages do you mainly use in your web development projects?**
-I am currently learning mysql and sql
+development using Node js, express along with MySQL.
+and lately I'm learning to use strapi, a headless cms.
 <!--
 **facundo000/facundo000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
